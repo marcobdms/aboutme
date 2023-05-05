@@ -1,6 +1,0 @@
-# aboutme
-
-
-Ejemplo de git
-
-
